@@ -1,0 +1,16 @@
+{
+    "destination": "place",
+    "start_date": "DD/MM/YYYY",
+    "end_date": "DD/MM/YYYY",
+    "num_travellers": "N",
+    "travel_style": "Budget friendly || Moderate || Luxury || Family friendly",
+    "accomodation_preference": "Luxury & Comfort || Best view & Experience || Close to attractions || Easy accessibility",
+    "interests": {
+        "choice1": "adventure",
+        "choice2": "food",
+        "choice3": "history and culture",
+        "choice4": "night_life",
+        "choice5": "off beat"
+    },
+    "travel_description": "what user need"
+}
